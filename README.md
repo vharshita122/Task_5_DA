@@ -1,6 +1,6 @@
 :
 
-📄 Final EDA Report: VNL Men 2023 Dataset
+📄 Final EDA Report: VNL Men 2023 Dataset 
 🔹 Dataset Overview:
 Player statistics including: Name, Country, Age, Attack, Block, Serve, Set, Dig, Receive, Position.
 
@@ -42,8 +42,7 @@ Players' skills show some interrelation.
 
 Certain positions dominate the tournament lineup.
 
-Attack strength varies notably between countries.
 
-Serve performance patterns and age demographics were successfully analyzed.
+
 
 
